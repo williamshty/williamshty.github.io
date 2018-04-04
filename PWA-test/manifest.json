@@ -1,0 +1,14 @@
+{
+    "name": "STY's first pwa manifest",
+    "short_name": "STY",
+    "start_url": "/index.html",
+    "scope": ".",
+    "display":"standalone",
+    "background_color":"#fff",
+    "theme_color":"#3F51B5",
+    "description": "Keep 12e1231 231",
+    "dir": "ltr",
+    "lang": "en-US",
+    "orientation":"portrait-primary",
+    "icons":[]
+}
